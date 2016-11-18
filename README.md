@@ -1,2 +1,3 @@
 # gold-secuence-tests
-kek
+
+Code for demonstrations of gold secuences. These are pn the pn codes used by gps systems for spreading and syncronization.
