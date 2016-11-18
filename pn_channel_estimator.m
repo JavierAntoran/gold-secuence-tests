@@ -1,4 +1,4 @@
-function [ su, secuencial ] = corrSec( canal )
+function [ su, secuencial ] = pn_channel_estimator( canal )
 
 polinomio = [0 0 0 1 0 0 0 0 0 0 1]; %polinomio generador
 
