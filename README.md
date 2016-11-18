@@ -1,3 +1,3 @@
 # gold-secuence-tests
 
-Code for demonstrations of gold secuences. These are pn the pn codes used by gps systems for spreading and syncronization.
+Code for demonstrations of gold secuences. These are pn codes used by gps systems for spreading and syncronization.
